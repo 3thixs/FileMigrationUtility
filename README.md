@@ -18,4 +18,4 @@ If you're a System Administrator or Support Analyst and you are setting up a new
 Chrome, Firefox, Edge, *you can add as many as you like though.*
 
 ### Conclusion
-This is basic script that you can use to build onto. For instance, you could gather their unique mapped network shares and automatically map them onto the new PC.
+This is basic script that you can use to build onto. For instance, you could gather their unique mapped network shares and automatically map them onto the new PC or whatever else they need within your enviroment.
