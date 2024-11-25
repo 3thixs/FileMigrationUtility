@@ -7,7 +7,7 @@ Write-Host 'What would you like to transfer?'
 Write-Host '1. Desktop' -ForegroundColor Blue
 Write-Host '2. Documents' -ForegroundColor Yellow
 Write-Host '3. Downloads' -ForegroundColor Cyan
-Write-Host '4. Chrome Data' -ForegroundColor Magenta
+Write-Host '4. Browser Data' -ForegroundColor Magenta
 Write-Host '5. Everything' -ForegroundColor Red
 $selection = Read-Host 'Enter 1-5.'
 
